@@ -154,7 +154,7 @@
     keypad_position_map {
         // Other properties
 
-        3waysplit_map: 3waysplit {
+        threewaysplit_map: threewaysplit {
             physical-layout = <&physical_layout0>;
             positions
                 = <     0  1  2  3  4  5  6  7  8  9 10 11 12 13 14          15 16      >

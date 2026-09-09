@@ -22,10 +22,6 @@
 
 };
 
-&numpad_encoder {
-    status = "okay";
-};
-
 &default_transform { // Offset of 8 because the left and right side has 18 columns
     col-offset = <18>;
 };
