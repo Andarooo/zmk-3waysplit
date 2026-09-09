@@ -26,3 +26,5 @@ include:
     shield: 3waysplit_right
   - board: nice_nano_v2
     shield: 3waysplit_numpad
+  - board: nice_nano_v2
+    shield: settings_reset
