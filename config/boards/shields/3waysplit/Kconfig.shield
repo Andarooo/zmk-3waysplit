@@ -1,0 +1,8 @@
+config SHIELD_3WAYSPLIT_LEFT
+    def_bool $(shields_list_contains, 3waysplit_left)
+
+config SHIELD_3WAYSPLIT_RIGHT
+    def_bool $(shields_list_contains, 3waysplit_right)
+
+config SHIELD_3WAYSPLIT_NUMPAD
+    def_bool $(shields_list_contains, 3waysplit_numpad)
