@@ -26,10 +26,6 @@
     };
 };
 
-&right_encoder {
-    status = "okay";
-};
-
 &default_transform { // Offset of 8 because the left side has 8 columns
     col-offset = <8>;
 };
